@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ryralinqproject", "ryralinqproject\ryralinqproject.csproj", "{9C4DD744-C0C5-4D05-8C18-CE4DD03E3E7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C4DD744-C0C5-4D05-8C18-CE4DD03E3E7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C4DD744-C0C5-4D05-8C18-CE4DD03E3E7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C4DD744-C0C5-4D05-8C18-CE4DD03E3E7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C4DD744-C0C5-4D05-8C18-CE4DD03E3E7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB3BD64A-D3CD-41C7-B17F-2C3C7A2543F5}
+	EndGlobalSection
+EndGlobal
